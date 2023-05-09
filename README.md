@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/quentin bolloré" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="quentin bolloré" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/quentin bolloré](https://www.linkedin.com/in/quentin-bollor%C3%A9-668233262/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="quentin bolloré" height="30" width="40" /></a>
 <a href="https://instagram.com/qntboll" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="qntboll" height="30" width="40" /></a>
 </p>
 
