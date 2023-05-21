@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Quentin</h1>
-<h3 align="center">First year Epitech student and web developper</h3>
+<h3 align="center">First year Epitech student</h3>
 
 - 🌱 I’m currently learning **C**
 
