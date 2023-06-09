@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Quentin</h1>
 <h3 align="center">First year Epitech student</h3>
 
-- 🌱 I’m currently learning **C**
+- 🌱 I’m currently learning **C**, **React.js**, **Javascript**, **Node.js**
 
 - 📫 How to reach me **quentin.bollore@epitech.eu**
 
