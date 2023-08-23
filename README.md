@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Quentin Bolloré</h1>
 <h3 align="center">A passionate developer and Second year Epitech student from France</h3>
 
-- 🌱 I’m currently learning **React.js, Node.js, Typescript.**
+- 🌱 I’m currently learning **Vue.js, Python.**
 
 - 👨‍💻 Somes of my projects are available at [https://quentinbol.github.io/Portfolio/](https://quentinbol.github.io/Portfolio/)
 
