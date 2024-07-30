@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Quentin Bolloré</h1>
 <h3 align="center">A passionate developer and Second year Epitech student from France</h3>
 
-- 🌱 I’m currently learning **Vue.js, Python.**
-
-- 👨‍💻 Somes of my projects are available at [https://quentinbol.github.io/Portfolio/](https://quentinbol.github.io/Portfolio/)
-
-- 📫 How to reach me **quentin.bollore@epitech.eu**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/quentin-bolloré-668233262/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="quentin-bolloré-668233262/" height="30" width="40" /></a>
